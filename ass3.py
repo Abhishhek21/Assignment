@@ -1,4 +1,4 @@
-Assignment-3
+#Assignment-3
 def solve_n_queens(n):
     def is_safe(board, row, col):
         # Check the left side of the current row
